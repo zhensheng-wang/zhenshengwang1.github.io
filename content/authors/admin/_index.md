@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Jensen Wang
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Jensen
+last_name: Wang
 
 # Status emoji
 status:
@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in BNU
+      institution: Beijing Normal University (China)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
